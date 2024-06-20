@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/restraraunt/static/css/main.f64a28e1.css",
+    "main.js": "/restraraunt/static/js/main.00784feb.js",
+    "static/js/453.64512fd7.chunk.js": "/restraraunt/static/js/453.64512fd7.chunk.js",
+    "static/media/nonveg5.png": "/restraraunt/static/media/nonveg5.0248d9e6c46b18862922.png",
+    "static/media/hero.png": "/restraraunt/static/media/hero.fac19e0f2cbb5be17b6c.png",
+    "static/media/nonveg1.jpg": "/restraraunt/static/media/nonveg1.c05fb4c839230101b925.jpg",
+    "static/media/nonveg3.jpg": "/restraraunt/static/media/nonveg3.61f2690b03a898d465d9.jpg",
+    "static/media/3.jpg": "/restraraunt/static/media/3.86ae8f49783e09494e9a.jpg",
+    "static/media/veg2.jpg": "/restraraunt/static/media/veg2.b219bb49ba2eb15e47d0.jpg",
+    "static/media/nonveg4.jpg": "/restraraunt/static/media/nonveg4.c9a11ea9c9c749a087fe.jpg",
+    "static/media/1.jpg": "/restraraunt/static/media/1.04563a4ce1295c76a997.jpg",
+    "static/media/non veg menu.jpg": "/restraraunt/static/media/non veg menu.ac4b19bd7d093423b2c2.jpg",
+    "static/media/veg menu.jpg": "/restraraunt/static/media/veg menu.1e0cbe131e618cbc61b0.jpg",
+    "static/media/chicken-lollipop.jpg": "/restraraunt/static/media/chicken-lollipop.4e6414d36c5aa09a29f2.jpg",
+    "static/media/nonveg2.jpg": "/restraraunt/static/media/nonveg2.da1eb961def091fb0aa9.jpg",
+    "static/media/lo.jpg": "/restraraunt/static/media/lo.fc7dcba10d72b6778a78.jpg",
+    "static/media/veg biryani.jpg": "/restraraunt/static/media/veg biryani.557fd20a80379c990250.jpg",
+    "static/media/panipuri.jpg": "/restraraunt/static/media/panipuri.f7b15e74ce746ea9e4cf.jpg",
+    "static/media/veg1.jpg": "/restraraunt/static/media/veg1.8ffad3dfe16ee4b6d443.jpg",
+    "static/media/veg3.jpg": "/restraraunt/static/media/veg3.ae7c49ba7a4269306e53.jpg",
+    "static/media/food.jpg": "/restraraunt/static/media/food.ee0213220ccb794fc98e.jpg",
+    "index.html": "/restraraunt/index.html",
+    "main.f64a28e1.css.map": "/restraraunt/static/css/main.f64a28e1.css.map",
+    "main.00784feb.js.map": "/restraraunt/static/js/main.00784feb.js.map",
+    "453.64512fd7.chunk.js.map": "/restraraunt/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64a28e1.css",
+    "static/js/main.00784feb.js"
+  ]
+}
